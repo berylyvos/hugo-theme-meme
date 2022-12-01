@@ -27,15 +27,15 @@
     weight = 3
 
 [[socials]]
-    id = "twitter"
-    url = "https://twitter.com/reuixiy"
-    icon = "twitter"
-    title = "Twitter"
+    id = "weibo"
+    url = "https://weibo.com/u/5634619208"
+    icon = "weibo"
+    title = "weibo"
     weight = 4
 
 [[socials]]
-    id = "telegram"
-    url = "https://t.me/yixiuer"
-    icon = "telegram"
-    title = "Telegram"
+    id = "douban"
+    url = "https://www.douban.com/people/84854417"
+    icon = "douban"
+    title = "douban"
     weight = 5
