@@ -26,16 +26,16 @@
     title = "GitHub"
     weight = 3
 
-[[socials]]
-    id = "weibo"
-    url = "https://weibo.com/u/5634619208"
-    icon = "weibo"
-    title = "weibo"
-    weight = 4
+# [[socials]]
+#     id = "weibo"
+#     url = "https://weibo.com/u/5634619208"
+#     icon = "weibo"
+#     title = "weibo"
+#     weight = 4
 
-[[socials]]
-    id = "douban"
-    url = "https://www.douban.com/people/84854417"
-    icon = "douban"
-    title = "douban"
-    weight = 5
+# [[socials]]
+#     id = "douban"
+#     url = "https://www.douban.com/people/84854417"
+#     icon = "douban"
+#     title = "douban"
+#     weight = 5
